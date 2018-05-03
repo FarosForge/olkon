@@ -1,0 +1,13 @@
+{
+"companyName": "OLKON",
+"productName": "OLKON City",
+"dataUrl": "olkonishe.data.unityweb",
+"asmCodeUrl": "olkonishe.asm.code.unityweb",
+"asmMemoryUrl": "olkonishe.asm.memory.unityweb",
+"asmFrameworkUrl": "olkonishe.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFF4F7"
+}
